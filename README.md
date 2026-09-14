@@ -4,13 +4,6 @@ A web-based tool that compresses and decompresses `.txt` files using the **Huffm
 
 ---
 
-## 🔗 Live Demo
-
-- 🌐 [samirpaulb.github.io/txt-compressor](https://samirpaulb.github.io/txt-compressor/)
-- ⚡ [txt-compressor.vercel.app](https://txt-compressor.vercel.app/)
-
----
-
 ## ✨ Features
 
 - **Lossless Compression** — No data is lost during compression or decompression.
@@ -75,37 +68,3 @@ Huffman Coding builds a binary tree (Huffman Tree) based on the frequency of eac
 5. Most frequent characters get the **shortest** codes → smaller file size.
 
 The algorithm guarantees **optimal prefix-free codes**, making it one of the most efficient lossless compression methods.
-
----
-
-## 📸 Screenshots
-
-### Landing Page
-![Landing Page](images/readme-images/landing-page.png)
-
-### Upload File
-![Upload File](images/readme-images/step1.png)
-
-### Select Action
-![Select Action](images/readme-images/step2.png)
-
-### Compression Result
-![Compression](images/readme-images/step3.png)
-
-### Decompression Result
-![Decompression](images/readme-images/decompression.png)
-
-### Info Page
-![Info](images/readme-images/info.jpeg)
-
----
-
-## 📄 License
-
-This project is open-source. Feel free to fork and use it for learning purposes.
-
----
-
-## 🙌 Acknowledgements
-
-Original concept and implementation by [Samir Paul](https://github.com/SamirPaulb).
